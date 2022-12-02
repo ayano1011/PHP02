@@ -1,0 +1,35 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile-image img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid pink
+}
+
+.profile-area {
+    padding: 15px;
+    height: 240px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid gray;
+}
+
+.profile-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.name-text {
+    font-size: 34px;
+}
+
+.age-text {
+    font-size: 24px;
+}

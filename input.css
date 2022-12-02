@@ -1,0 +1,30 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title {
+    background-color: pink;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* .submit_area {
+    background-color: aqua;
+} */
+
+.submit {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: pink;
+    width: 150px;
+
+}
+
+.weight {
+    width: 140px;
+}

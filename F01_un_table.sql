@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- ホスト: localhost
--- 生成日時: 2022 年 12 月 02 日 05:37
+-- 生成日時: 2022 年 12 月 06 日 04:19
 -- サーバのバージョン： 10.4.27-MariaDB
 -- PHP のバージョン: 8.1.12
 
@@ -47,7 +47,8 @@ INSERT INTO `F01_un_table` (`date`, `weight`) VALUES
 ('2022-11-27', 1358),
 ('2022-11-28', 1340),
 ('2022-11-29', 1355),
-('2022-11-30', 1360);
+('2022-11-30', 1360),
+('2022-12-01', 1500);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

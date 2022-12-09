@@ -1,0 +1,14 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.title {
+    background-color: pink;
+    color: white;
+    width: 70px;
+    height: 40px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
